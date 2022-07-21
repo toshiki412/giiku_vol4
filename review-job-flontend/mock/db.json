@@ -1,0 +1,81 @@
+{
+  "healthz": {
+    "message": "hello!"
+  },
+  "group1": {
+    "id": 1,
+    "name": "時給1176円を目指して",
+    "code": "giahidhfidajfdjfodkfpf"
+  },
+  "groups": {
+    "groups": [
+      {
+        "id": 1,
+        "name": "時給1176円を目指して",
+        "code": "giahidhfidajfdjfodkfpf"
+      },
+      {
+        "id": 2,
+        "name": "時給5000円を目指して",
+        "code": "giahidhfidajfddkfpf"
+      },
+      {
+        "id": 3,
+        "name": "時給80000円を目指して",
+        "code": "ghfidajfdjfodkfpf"
+      }
+    ]
+  },
+  "members": {
+    "members": [
+      {
+        "id": 1,
+        "name": "山田太郎",
+        "review_counts": 2
+      },
+      {
+        "id": 2,
+        "name": "川村花子",
+        "review_counts": 3
+      }
+    ]
+  },
+  "reviews": {
+    "reviews": [
+      {
+        "id": 1,
+        "name": "すき家",
+        "user_id": 1,
+        "user_name": "山田太郎",
+        "note": "まぜのっけ朝食おいしいです。",
+        "category_name": "飲食",
+        "category_id": 1,
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "ラーメン二郎",
+        "user_id": 1,
+        "user_name": "山田太郎",
+        "note": "ニンニクが好きです。",
+        "category_name": "飲食",
+        "category_id": 1,
+        "star": 5
+      }
+    ]
+  },
+  "review1": {
+    "id": 1,
+    "name": "すき家",
+    "user_id": 1,
+    "user_name": "山田太郎",
+    "note": "まぜのっけ朝食がおいしいです。ぜひ食べにきてください",
+    "category_name": "飲食",
+    "category_id": 1,
+    "star": 5
+  },
+  "signin": {
+    "id": "user1",
+    "password": "pass0001"
+  }
+}
